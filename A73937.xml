@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seueral rates and taxations for wages, made [and] set forth by the iustices of peace of the countie of Lyncolne</title>
+            <title>Proclamations. 1563-07-08</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1563</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73937</idno>
+            <idno type="STC">STC 7957.3</idno>
+            <idno type="STC">ESTC S124521</idno>
+            <idno type="EEBO-CITATION">99900270</idno>
+            <idno type="PROQUEST">99900270</idno>
+            <idno type="VID">150589</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150589)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1956:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seueral rates and taxations for wages, made [and] set forth by the iustices of peace of the countie of Lyncolne</title>
+                  <title>Proclamations. 1563-07-08</title>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>R. Jugge and J. Cawood,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1563]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Steele notation: of  cer  re-  haue  men,  2) water wa-.</note>
+                  <note>Reproduction of original in the Queens' College Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wages --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+               <term>Lincoln (England : County) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150589:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <head>¶ The ſeueral rates and taxations for wages, made &amp; ſet forth by the Iuſtices of peace of the Countie of Lyncolne.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREin the Parliament holden at Weſtminſter, the xii. day of Ianuary laſt: It was enacted by the Quene our Soueraygne Ladye, the Lordes ſpirituall and Temporall, and the Commons in that Parliament aſſembled, that the Iuſtices of the peace of euery Sheere, Rydyng, and ly<g ref="char:EOLhyphen"/>bertie, within the limittes of their ſeuerall Commiſſions, or the more parte of them, being there reſiaunt within the ſame, and the ſheryffe of the Coun<g ref="char:EOLhyphen"/>tie yfhe conueniently myght. And euery Maior, Baylyffe or other head offi<g ref="char:EOLhyphen"/>cer within any Cytie or towne Corporate, wherein is any Iuſtice of peace, within the limittes of the ſayd Citie or towne, ſhoulde by force of that acte, aſſemble them ſelues together accordyng to the tenour of the ſame acte. And therevpon ſhould lymyt, rate and appoynt the wages of Ar<g ref="char:EOLhyphen"/>tificers, Handicraftes men, Huſbandmen, Laborers, Seruauntes, and workemen, as by their dyſcreſ<g ref="char:EOLhyphen"/>ſions ſhoulde be thought mete, and accordyng to ſuch aucthoritie as is geuen them by the ſayde Acte, and the ſame rates and taxations ſhoulde certifye into the Quenes hyghnes Courte of Chauncerye, before at certen day lymytted in the ſayde acte: Whervpon in ſhould be lawefull for the Lorde Chauncelour, or Lord Keper of the great Seale of Englande for the time beynge, vpon declaration thereof to her highnes, her heires or Succeſſours, or to the Lordes and others of her Maieſties preuye counſell, to cauſe proclama<g ref="char:EOLhyphen"/>tions to be made into euery of the ſayde ſhyres and places, co<g ref="char:cmbAbbrStroke">̄</g>teyning the ſeuerall rates appointed by the ſayde Iuſtices, and other head officers: Commaunding therby in her highnes name, all perſons ſtrayght ly to obſerue and kepe the ſame, vpon the daunger of the punyſhment and forfeytures, lymitted and ap<g ref="char:EOLhyphen"/>poynted by the ſayde Acte and ſtatute.</p>
+            <p>AND where alſo it is further enacted by thauctoritie aforeſayd: That almaner of perſon and per<g ref="char:EOLhyphen"/>ſones, after ſuche proclamation made, ſhoulde obſerue and kepe the ſaide rates for wages, vppon payne of the forfaytures and penalties conteyned in the ſame eſtatute, vntyll by a ſeconde proclamation, accor<g ref="char:EOLhyphen"/>dinge to the purporte of the ſame eſtatute, it ſhoulde be otherwiſe ordered and proclaymed.</p>
+            <p>Therefore the Quenes Maieſtie hauing receiued into her ſaid court of Chauncery, among diuerſe other certificates from ſondry of her highnes Shyres, Cities, and Townes, one certificate from this her Countie of Lyncolne, conteininge the rates for wages hereafter folowinge. And made and appointed by the Iuſtices of this her ſaide Countie of Lyncolne, accordynge to the tenoure of the ſame acte: And mindinge to haue the ſame rates put in execution in all poyntes as by the proceſſe of the ſame act is preſcri<g ref="char:EOLunhyphen"/>bed, lyke as her Maieſtie hath and entendeth to do in al other her highnes Counties and Shyres, and o<g ref="char:EOLhyphen"/>ther places of lybertie in this her Realme.</p>
+            <p>Therefore her highnes ſtrayghtlye chargeth and commaundeth all maner of perſon and perſons, within her ſaid County of Lyncolne, to kepe and obſerue in al pointes the ſaid rates, taxations, orders ap<g ref="char:EOLhyphen"/>pointments for wages hereafter folowynge and ſet forth vpon the paynes &amp; forfeytures appoynted by the ſaid eſtatute, and vpon payne of her highnes dyſpleaſure. And further her highnes pleaſure &amp; expreſſe com<g ref="char:EOLhyphen"/>maundement is that al Iuſtices of peace, Sherifes, and other officers of her ſayd Countie fo Lyncolne ſhal ſee and cauſe the ſame rates, duely and ſeuerely to be obſerued and kepte in all pointes, and this pro<g ref="char:EOLhyphen"/>clamacion to be vſed in euery behalfe, accordyng to the tenour and effect of the ſayd acte.</p>
+            <p>AND her Maieſties further pleaſure and commaundement is, that yf anye queſtion, ſcrupule, or doubte ſhall ryſe vppon anye of the taxacions or rates for thys Countie of Lyncolne, here vnder menti<g ref="char:EOLhyphen"/>oned. That then the ſame ſhal be ordered and determined by her highenes Iuſtices of peace, that dyd make and ordeyne the ſame taxations &amp; rates. And that all perſons ſhal perfourme kepe the ſame re<g ref="char:EOLhyphen"/>ſolutions orders and determinations, ſo by them to be made and determined, touchyng the ſame.</p>
+            <closer>God ſaue the Quene.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
